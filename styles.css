@@ -1,0 +1,112 @@
+html, body {
+        margin: 0 !important;
+        padding: 0 !important;
+        box-sizing: border-box !important;
+        max-width: 100% !important;
+        }
+    
+
+.autocomplete {
+    padding: 4px !important;
+    font-size: 17px !important;
+    border: #f4f4f4 px solid !important;;
+}
+
+.footer-heading {
+    padding-bottom: 17px;;
+}
+
+#social-media {
+ display: block;
+}
+
+.main-image {
+    margin-top: -80px;
+    padding-bottom: 0px !important;
+    
+}
+
+nav ul a:hover {
+    background-color: rgba(0, 0, 0, 0) !important;
+    
+}
+
+nav ul {
+    padding: -6px;
+}
+
+.search {
+    background-image: url("ibrahim-egan-g04ZOB9S25E-unsplash.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.inpt {
+    padding-top: 80px;
+}
+
+.responsive-img{
+    width: 100%;
+    margin-bottom:0 !important
+}
+
+.our-locations  {
+    padding: 0px 30px 0px 30px;
+    margin-bottom: 2px !important;
+    
+}
+
+.locations-wrap {
+    padding: 50px;
+    text-align: left;
+
+}
+
+.row {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.container-us {
+    padding: 80px;
+}
+
+.contact {
+    padding: 50px 0px 0px 0px;
+}
+
+.contact-head {
+    padding-top:20px;
+    line-height: 50.75px;
+}
+
+.comment {
+    max-width: 100%;
+}
+
+.inpt {
+    padding-left: 0px !important;
+}
+
+.input-field {
+    padding-left: 0px !important;
+}
+
+.terms {
+    padding: 140px 0px 15px 0px;
+}
+
+.search-sect {
+    padding-top: 150px;
+}
+
+.search {
+    max-height: 1400px;
+}
+
+ .menu-item {
+    font-size: 20px;
+   
+}
