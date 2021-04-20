@@ -8,7 +8,7 @@ html, body {
 
 .autocomplete {
     padding: 4px !important;
-    font-size: 17px !important;
+    font-size: 18px;
     border: #f4f4f4 px solid !important;;
 }
 
@@ -60,8 +60,11 @@ nav ul {
 
 .locations-wrap {
     padding: 50px;
-    text-align: left;
+    text-align: left;  
+}
 
+.location-info {
+    padding-top: 22px !important;
 }
 
 .row {
@@ -107,6 +110,13 @@ nav ul {
 }
 
  .menu-item {
-    font-size: 20px;
+    font-size: 18px;
    
 }
+
+  .logo {
+      height: 20px; 
+      position: relative;
+
+    right: 3px;
+  }
